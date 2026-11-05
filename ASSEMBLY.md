@@ -102,25 +102,25 @@ labeled with its reference and value.
 
 | Ref | Value | # | Package | Part number | Note |
 | --- | --- | --- | --- | --- | --- |
-| D1 | 12V zener |  | SOD-123 | BZT52B12 |  |
-| D4 | 43V TVS |  | SMB | P6SMBJ43A |  |
-| D7 | 5V TVS, bidirectional |  | SMA | SMAJ5.0CA | Unmarked bidirectional part only; the silkscreen bar is the GND end (review P1) |
+| D1 | BZT52B12 |  | SOD-123 | BZT52B12 |  |
 | D10 | LED | 1 of 2 | 0603 | - |  |
 | D11 | LED | 2 of 2 | 0603 | - |  |
 | D2 | LED, green | 1 of 4 | 0603 | LTST-C190KGKT |  |
 | D3 | LED, green | 2 of 4 | 0603 | LTST-C190KGKT |  |
 | D6 | LED, green | 3 of 4 | 0603 | LTST-C190KGKT |  |
 | D12 | LED, green | 4 of 4 | 0603 | LTST-C190KGKT |  |
-| D5 | Schottky 60V 5A | 1 of 2 | SMA | SK56A-LTP |  |
-| D8 | Schottky 60V 5A | 2 of 2 | SMA | SK56A-LTP |  |
+| D4 | P6SMBJ43A |  | SMB | P6SMBJ43A |  |
+| D5 | SK56A | 1 of 2 | SMA | SK56A-LTP |  |
+| D8 | SK56A | 2 of 2 | SMA | SK56A-LTP |  |
+| D7 | SMAJ5.0CA |  | SMA | SMAJ5.0CA | Unmarked bidirectional part only; the silkscreen bar is the GND end (review P1) |
 
 ## Transistors
 
 | Ref | Value | # | Package | Part number | Note |
 | --- | --- | --- | --- | --- | --- |
-| Q1 | Dual NPN/PNP |  | SOT-363 | MBT3946DW1T2G |  |
-| Q3 | N-MOSFET 100V |  | SOT-23 | BSS123NH6433XTMA1 |  |
-| Q2 | P-MOSFET 60V |  | TO-252 (DPAK) | MCAC054P10Y-TP |  |
+| Q3 | BSS123N |  | SOT-23 | BSS123NH6433XTMA1 |  |
+| Q1 | MBT3946 |  | SOT-363 | MBT3946DW1T2G |  |
+| Q2 | MCAC054P10Y |  | TO-252 (DPAK) | MCAC054P10Y-TP |  |
 
 ## ICs and modules
 

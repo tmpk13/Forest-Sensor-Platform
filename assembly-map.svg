@@ -102,7 +102,7 @@
 <g transform="translate(113.525 123.740) rotate(-180.000)"><rect x="-1.650" y="-0.730" width="3.300" height="1.460" fill="#eee8d5" stroke="#b58900" stroke-width="0.12"/></g>
 <g transform="translate(113.525 123.740) rotate(0.000)" font-size="0.512"><text y="-0.128"><tspan font-weight="bold">R25</tspan> 1 of 2</text><text y="0.486">5.1K</text></g>
 <g transform="translate(91.625 101.037) rotate(-180.000)"><rect x="-1.050" y="-1.500" width="2.100" height="3.000" fill="#eee8d5" stroke="#d33682" stroke-width="0.12"/></g>
-<g transform="translate(91.625 101.037) rotate(-90.000)" font-size="0.388"><text y="-0.097"><tspan font-weight="bold">Q1</tspan></text><text y="0.369">Dual NPN/PNP</text></g>
+<g transform="translate(91.625 101.037) rotate(-90.000)" font-size="0.665"><text y="-0.166"><tspan font-weight="bold">Q1</tspan></text><text y="0.632">MBT3946</text></g>
 <g transform="translate(112.476 94.562) rotate(-180.000)"><rect x="-1.650" y="-0.730" width="3.300" height="1.460" fill="#eee8d5" stroke="#b58900" stroke-width="0.12"/></g>
 <g transform="translate(112.476 94.562) rotate(0.000)" font-size="0.512"><text y="-0.128"><tspan font-weight="bold">R43</tspan> 2 of 2</text><text y="0.486">0 ohm</text></g>
 <g transform="translate(86.300 86.213) rotate(-0.000)"><rect x="-1.650" y="-0.730" width="3.300" height="1.460" fill="#eee8d5" stroke="#b58900" stroke-width="0.12"/></g>
@@ -118,7 +118,7 @@
 <g transform="translate(105.050 115.763) rotate(-180.000)"><rect x="-1.650" y="-0.730" width="3.300" height="1.460" fill="#eee8d5" stroke="#b58900" stroke-width="0.12"/></g>
 <g transform="translate(105.050 115.763) rotate(0.000)" font-size="0.512"><text y="-0.128"><tspan font-weight="bold">R21</tspan> 1 of 6</text><text y="0.486">1M</text></g>
 <g transform="translate(113.700 109.050) rotate(-90.000)"><rect x="-3.500" y="-1.750" width="7.000" height="3.500" fill="#eee8d5" stroke="#dc322f" stroke-width="0.12"/></g>
-<g transform="translate(113.700 109.050) rotate(-90.000)" font-size="0.517"><text y="-0.129"><tspan font-weight="bold">D7</tspan></text><text y="0.491">5V TVS, bidirectional</text></g>
+<g transform="translate(113.700 109.050) rotate(-90.000)" font-size="1.207"><text y="-0.302"><tspan font-weight="bold">D7</tspan></text><text y="1.147">SMAJ5.0CA</text></g>
 <g transform="translate(101.250 94.800) rotate(-90.000)"><rect x="-1.330" y="-1.250" width="2.660" height="2.500" fill="#eee8d5" stroke="#859900" stroke-width="0.12"/></g>
 <g transform="translate(101.250 94.800) rotate(-90.000)" font-size="0.459"><text y="-0.115"><tspan font-weight="bold">U10</tspan></text><text y="0.436">TLV75733P</text></g>
 <g transform="translate(101.552 97.450) rotate(-0.000)"><rect x="-1.880" y="-0.980" width="3.760" height="1.960" fill="#eee8d5" stroke="#268bd2" stroke-width="0.12"/></g>
@@ -132,7 +132,7 @@
 <g transform="translate(86.300 76.263) rotate(-180.000)"><rect x="-1.650" y="-0.730" width="3.300" height="1.460" fill="#eee8d5" stroke="#268bd2" stroke-width="0.12"/></g>
 <g transform="translate(86.300 76.263) rotate(0.000)" font-size="0.512"><text y="-0.128"><tspan font-weight="bold">C21</tspan> 5 of 7</text><text y="0.486">100nF 50V</text></g>
 <g transform="translate(91.900 108.213) rotate(-90.000)"><rect x="-3.500" y="-1.750" width="7.000" height="3.500" fill="#eee8d5" stroke="#dc322f" stroke-width="0.12"/></g>
-<g transform="translate(91.900 108.213) rotate(-90.000)" font-size="0.724"><text y="-0.181"><tspan font-weight="bold">D8</tspan> 2 of 2</text><text y="0.688">Schottky 60V 5A</text></g>
+<g transform="translate(91.900 108.213) rotate(-90.000)" font-size="1.207"><text y="-0.302"><tspan font-weight="bold">D8</tspan> 2 of 2</text><text y="1.147">SK56A</text></g>
 <g transform="translate(104.800 113.513) rotate(-90.000)"><rect x="-1.320" y="-1.300" width="2.640" height="2.600" fill="#eee8d5" stroke="#859900" stroke-width="0.12"/></g>
 <g transform="translate(104.800 113.513) rotate(-90.000)" font-size="0.455"><text y="-0.114"><tspan font-weight="bold">U2</tspan> 1 of 2</text><text y="0.432">LM66200</text></g>
 <g transform="translate(98.700 109.850) rotate(-0.000)"><rect x="-1.650" y="-0.730" width="3.300" height="1.460" fill="#eee8d5" stroke="#268bd2" stroke-width="0.12"/></g>
@@ -146,7 +146,7 @@
 <g transform="translate(104.350 111.350) rotate(-180.000)"><rect x="-1.650" y="-0.730" width="3.300" height="1.460" fill="#eee8d5" stroke="#268bd2" stroke-width="0.12"/></g>
 <g transform="translate(104.350 111.350) rotate(0.000)" font-size="0.526"><text y="-0.131"><tspan font-weight="bold">C30</tspan></text><text y="0.499">1uF 25V</text></g>
 <g transform="translate(87.500 108.938) rotate(-0.000)"><rect x="-2.500" y="-4.300" width="5.000" height="7.150" fill="#eee8d5" stroke="#d33682" stroke-width="0.12"/></g>
-<g transform="translate(87.500 108.213) rotate(-90.000)" font-size="0.925"><text y="-0.231"><tspan font-weight="bold">Q2</tspan></text><text y="0.878">P-MOSFET 60V</text></g>
+<g transform="translate(87.500 108.213) rotate(-90.000)" font-size="1.009"><text y="-0.252"><tspan font-weight="bold">Q2</tspan></text><text y="0.958">MCAC054P10Y</text></g>
 <g transform="translate(80.350 94.713) rotate(-0.000)"><rect x="-1.650" y="-0.730" width="3.300" height="1.460" fill="#eee8d5" stroke="#b58900" stroke-width="0.12"/></g>
 <g transform="translate(80.350 94.713) rotate(0.000)" font-size="0.512"><text y="-0.128"><tspan font-weight="bold">R19</tspan> 1 of 4</text><text y="0.486">1K</text></g>
 <g transform="translate(92.200 98.713) rotate(-0.000)"><rect x="-1.650" y="-0.730" width="3.300" height="1.460" fill="#eee8d5" stroke="#b58900" stroke-width="0.12"/></g>
@@ -182,7 +182,7 @@
 <g transform="translate(100.000 69.062) rotate(-90.000)"><rect x="-2.600" y="-4.000" width="14.720" height="8.000" fill="#eee8d5" stroke="#657b83" stroke-width="0.12"/></g>
 <g transform="translate(100.000 64.302) rotate(-90.000)" font-size="1.269"><text y="-0.317"><tspan font-weight="bold">SMA1</tspan></text><text y="1.206">SMA edge connector</text></g>
 <g transform="translate(87.900 96.412) rotate(90.000)"><rect x="-1.930" y="-1.700" width="3.860" height="3.400" fill="#eee8d5" stroke="#d33682" stroke-width="0.12"/></g>
-<g transform="translate(87.900 96.412) rotate(-90.000)" font-size="0.461"><text y="-0.115"><tspan font-weight="bold">Q3</tspan></text><text y="0.438">N-MOSFET 100V</text></g>
+<g transform="translate(87.900 96.412) rotate(-90.000)" font-size="0.856"><text y="-0.214"><tspan font-weight="bold">Q3</tspan></text><text y="0.813">BSS123N</text></g>
 <g transform="translate(96.250 79.963) rotate(-90.000)"><rect x="-7.316" y="-6.000" width="13.316" height="12.000" fill="#eee8d5" stroke="#859900" stroke-width="0.12"/></g>
 <g transform="translate(96.250 80.621) rotate(-90.000)" font-size="1.400"><text y="-0.350"><tspan font-weight="bold">U3</tspan></text><text y="1.330">LoRa-E5-HF</text></g>
 <g transform="translate(110.500 91.950) rotate(-90.000)"><rect x="-1.650" y="-0.730" width="3.300" height="1.460" fill="#eee8d5" stroke="#b58900" stroke-width="0.12"/></g>
@@ -194,11 +194,11 @@
 <g transform="translate(107.726 100.562) rotate(90.000)"><rect x="-1.650" y="-0.730" width="3.300" height="1.460" fill="#eee8d5" stroke="#b58900" stroke-width="0.12"/></g>
 <g transform="translate(107.726 100.562) rotate(-90.000)" font-size="0.512"><text y="-0.128"><tspan font-weight="bold">R36</tspan> 4 of 6</text><text y="0.486">1M</text></g>
 <g transform="translate(98.500 117.900) rotate(-0.000)"><rect x="-3.500" y="-1.750" width="7.000" height="3.500" fill="#eee8d5" stroke="#dc322f" stroke-width="0.12"/></g>
-<g transform="translate(98.500 117.900) rotate(0.000)" font-size="0.724"><text y="-0.181"><tspan font-weight="bold">D5</tspan> 1 of 2</text><text y="0.688">Schottky 60V 5A</text></g>
+<g transform="translate(98.500 117.900) rotate(0.000)" font-size="1.207"><text y="-0.302"><tspan font-weight="bold">D5</tspan> 1 of 2</text><text y="1.147">SK56A</text></g>
 <g transform="translate(119.086 108.190) rotate(-90.000)"><rect x="-2.000" y="-3.600" width="16.700" height="7.200" fill="#eee8d5" stroke="#657b83" stroke-width="0.12"/></g>
 <g transform="translate(119.086 101.840) rotate(-90.000)" font-size="1.296"><text y="-0.324"><tspan font-weight="bold">J7</tspan></text><text y="1.231">6-way screw terminal</text></g>
 <g transform="translate(98.400 113.800) rotate(-0.000)"><rect x="-3.650" y="-2.250" width="7.300" height="4.500" fill="#eee8d5" stroke="#dc322f" stroke-width="0.12"/></g>
-<g transform="translate(98.400 113.800) rotate(0.000)" font-size="1.400"><text y="-0.350"><tspan font-weight="bold">D4</tspan></text><text y="1.330">43V TVS</text></g>
+<g transform="translate(98.400 113.800) rotate(0.000)" font-size="1.259"><text y="-0.315"><tspan font-weight="bold">D4</tspan></text><text y="1.196">P6SMBJ43A</text></g>
 <g transform="translate(104.650 106.450) rotate(90.000)"><rect x="-1.650" y="-0.730" width="3.300" height="1.460" fill="#eee8d5" stroke="#dc322f" stroke-width="0.12"/></g>
 <g transform="translate(104.650 106.450) rotate(-90.000)" font-size="0.512"><text y="-0.128"><tspan font-weight="bold">D2</tspan> 1 of 4</text><text y="0.486">LED, green</text></g>
 <g transform="translate(112.600 76.500) rotate(-180.000)"><rect x="-8.600" y="-8.800" width="17.200" height="21.900" fill="#eee8d5" stroke="#657b83" stroke-width="0.12"/></g>
@@ -210,6 +210,6 @@
 <g transform="translate(80.925 91.001) rotate(-0.000)"><rect x="-4.400" y="-2.100" width="8.800" height="4.200" fill="#eee8d5" stroke="#b58900" stroke-width="0.12"/></g>
 <g transform="translate(80.925 91.001) rotate(0.000)" font-size="0.803"><text y="-0.201"><tspan font-weight="bold">R1</tspan></text><text y="0.763">50 milliohm shunt</text></g>
 <g transform="translate(87.900 100.950) rotate(-90.000)"><rect x="-2.350" y="-1.150" width="4.700" height="2.300" fill="#eee8d5" stroke="#dc322f" stroke-width="0.12"/></g>
-<g transform="translate(87.900 100.950) rotate(-90.000)" font-size="0.810"><text y="-0.203"><tspan font-weight="bold">D1</tspan></text><text y="0.770">12V zener</text></g>
+<g transform="translate(87.900 100.950) rotate(-90.000)" font-size="0.828"><text y="-0.207"><tspan font-weight="bold">D1</tspan></text><text y="0.787">BZT52B12</text></g>
 <text x="71.500" y="137.388" font-size="1.5" text-anchor="start" font-weight="bold">Forest Sensor Platform V1 - top side, 103 parts</text><text x="71.500" y="139.388" font-size="1.2" text-anchor="start">Dashed = do not fit (R33, C26, C27). Y2: fit turned 90 degrees from its footprint.</text><text x="71.500" y="141.088" font-size="1.2" text-anchor="start">D7: unmarked (bidirectional) TVS only. R35: confirm value first. Full list: ASSEMBLY.md</text>
 </svg>
