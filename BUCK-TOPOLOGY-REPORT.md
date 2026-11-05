@@ -1,7 +1,7 @@
 # Solar buck topology exploration - findings report
 
 Date: 2026-07-04
-Tooling: ngspice-42 via the ngspice MCP server (`~/ngspice/mcp/ngspice-mcp`), netlists and
+Tooling: ngspice-42 via the [ngspice-mcp](https://github.com/gtnoble/ngspice-mcp) MCP server, netlists and
 sweep driver in [sim-topologies/](sim-topologies/).
 
 ## TL;DR
@@ -247,8 +247,8 @@ python3 sweep.py lowside_buck 5 6 8 10 12 16 20 24 28 32   # or hs_nmos / pmos_b
 python3 plot_topologies.py .
 ```
 
-`mcp_ngspice.py` talks to the ngspice MCP server binary over stdio JSON-RPC
-(`~/ngspice/mcp/ngspice-mcp/ngspice-mcp`), same engine the interactive exploration used.
+`mcp_ngspice.py` talks to the ngspice-mcp server binary over stdio JSON-RPC (its path is
+`SERVER` in that script), the same engine the interactive exploration used.
 
 ## 8. Full sweep results
 
