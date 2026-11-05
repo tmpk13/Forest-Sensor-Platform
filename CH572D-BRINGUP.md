@@ -44,8 +44,8 @@ Found along the way, not the fix:
 
 A blank chip starts in the bootloader on its own; no pull-up is needed. It
 enumerates as 1a86:55e0 (bcdDevice 23.00) and leaves USB 9.9 s later if no tool
-talks to it, so start the flash first (`mise run ch572-flash` in
-long-range-radio-rs waits 30 s), then plug in.
+talks to it, so start the flash first (`mise run flash` in
+ch572-bridge-rs waits 30 s), then plug in.
 
 Once firmware is flashed, re-entering needs a 5.1k from VDD33 (R41's U9 end) to D+,
 fitted before plug-in: the same circuit as the Download button on WCH's CH572
